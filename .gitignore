@@ -1,0 +1,45 @@
+# ===== IntelliJ IDEA =====
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# ===== Compiled files =====
+*.class
+bin/
+target/
+build/
+
+# ===== Maven =====
+.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+# ===== Gradle =====
+.gradle/
+!gradle/wrapper/gradle-wrapper.jar
+
+# ===== Logs & temp files =====
+*.log
+*.tmp
+hs_err_pid*
+
+# ===== Packaged files =====
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+
+# ===== OS files =====
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ===== Other IDEs =====
+.vscode/
+.settings/
+.project
+.classpath
+nbproject/
