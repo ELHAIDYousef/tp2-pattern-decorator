@@ -1,4 +1,4 @@
-# TP3 — Decorator Design Pattern
+# TP2 — Decorator Design Pattern
 
 A small Java console app that demonstrates the **Decorator** design pattern with a coffee shop example. You start from a base drink and **wrap** it with extras (chocolate, milk, caramel). Each extra adds to the price and to the description, and extras can be stacked in any order and any number of times.
 
